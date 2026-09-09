@@ -115,6 +115,4 @@ defense mechanisms and more advanced behavioral analysis.
 
 ## Project Status
 
-## Project Status
-
 Completed — experimental IDS implementation and validation.
