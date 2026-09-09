@@ -1,0 +1,14 @@
+
+        ============= FORENSIC SUMMARY =============
+
+        Incident ID          : 59
+        Total Attackers      : 2
+        Blacklisted IPs      : 1
+        Most Dangerous IP    : 127.0.0.1
+        Highest Attack Count : 59
+        Highest Priority     : 100
+        Most Common Attack   : DDoS
+        Timeline Events      : 59
+
+        ============================================
+        
